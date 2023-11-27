@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%);
+}
+
+.col-md-7{
+    margin-top:150px;
+    background-color: white;
+    padding: 20px;
+    margin-left: 250px;
+}
+h1{
+    background-color:blue;
+}
+input,label{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+li{
+    list-style-type: none;
+}
+button{
+    margin: 13px;
+}

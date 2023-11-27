@@ -1,0 +1,18 @@
+.maindiv{
+    background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%)!important;
+    height: 100vh;
+    width:0;
+}
+button{
+    margin:10px !important;
+}
+ul{
+    text-align: center !important;
+}
+li{
+    list-style-type: none;
+    color:black;
+    margin:50px !important;
+    font-size: 40px;
+    display:none;
+}
